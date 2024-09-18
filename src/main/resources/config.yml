@@ -1,0 +1,8 @@
+command:
+  - deop
+  - log Operator {player} deopped.
+  - execute say hi!
+
+use_advanced_opcheck: true
+
+check_on_load_and_shutdown: true

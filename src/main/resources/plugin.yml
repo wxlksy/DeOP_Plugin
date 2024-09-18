@@ -1,0 +1,8 @@
+name: deOPP
+version: '1.0-SNAPSHOT'
+main: com.example.deOPP.DeOPP
+api-version: '1.19'
+author: [wxlksy]
+commands:
+  autodeop:
+    usage: 'Usage: /autodeop reload'
